@@ -1,0 +1,12 @@
+margin: 20px 40px 60px 80px;
+
+margin-left: 50px;
+
+border-width: 10px;
+
+border-style: solid;
+
+border-color: #090; */
+
+padding: 20px;
+box-sizing: border-box;
